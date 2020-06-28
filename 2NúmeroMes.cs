@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 
-namespace ExerciciosDois
+namespace ListaExercicios2
 {
-    public class NumeroMes 
+    public class NumeroMes
     {
         public static void Mes()
         {
@@ -23,9 +23,12 @@ namespace ExerciciosDois
             mes2.Add("12", "12 = DEZEMBRO!");
 
             Console.WriteLine("Digite o Número do Mês: ");
-            try{
+            try
+            {
                 Console.WriteLine(mes2[Console.ReadLine()]);
-            } catch {
+            }
+            catch
+            {
                 Console.WriteLine("Opção inválida");
             }
         }
