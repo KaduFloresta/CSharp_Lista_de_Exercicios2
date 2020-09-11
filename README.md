@@ -36,6 +36,6 @@ Acima de 40 | Obesidade Grau III (mórbida)
 ---
 ## DESAFIO
 
-* **11. Crie um programa que receba um valor em reais e determine qual o mínimo de notas necessárias para entregá-lo.** 
+* **11. Crie um programa que receba um valor em reais e determine qual o mínimo de notas necessárias para entregá-lo.
   - Notas: R$ 100, R$ 50, R$ 10, R$ 5, R$ 1.
-  - Exemplo: R$ 15 -> 1 nota de R$ 10 e 1 nota de R$ 5.
+  - Exemplo: R$ 15 -> 1 nota de R$ 10 e 1 nota de R$ 5.** 
